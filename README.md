@@ -14,6 +14,10 @@ also I attached runnable JAR file - SwingSet2.jar
 
 You can try out and unpack jar file.
 
-Compiled it 24-05-2014 - guarantee that the code works.  
+Compiled it 24-05-2014 - guarantee that the code works. 
+
+If you have any problem with this app just let me know and I will try to help you.
+
+bartbien88@gmail.com
 
 Have fun.
